@@ -11,6 +11,9 @@ header {
   width: 1000px;
   background-image: url(../images/flag.jpg);
   font-family: 'Lato', sans-serif;
+  border-color: #2a3178;
+  border-width: medium;
+  border-style: solid;
 }
 
 header h1 {
@@ -48,7 +51,6 @@ nav {
   padding: 5px 0;
   text-align: center;
   background-color: #9d0609;
-  border: #2a3178;
 }
 
 nav a {
